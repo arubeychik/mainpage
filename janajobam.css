@@ -1,0 +1,49 @@
+body {
+    margin: 0;
+    font-family: Arial, Helvetica, sans-serif;
+    background-image: URL(https://wallpaperaccess.com/full/111853.jpg);
+    font-family: 'Fraunces', 'serif';
+}
+
+h1{
+    font-size: 50px;
+    text-align: center;
+    width: 1100px;
+    margin: auto;
+    margin-bottom: 30px;
+}
+p{
+    font-size: 20px;
+    text-align: center;
+    width: 700px;
+    margin: auto;
+    margin-bottom: 30px;
+    padding: 5x;
+    background-color:#F86158;
+    transition:1s;
+
+}
+
+.numbertext{
+    text-align: center;
+}
+.menu {
+    background-color:#F86158;
+    padding: 12px;
+    text-align:center;
+}
+
+.menu a{
+    font-family: Arial, Helvetica, sans-serif;
+    font-size:28px;
+    text-decoration:none;
+    color:black;
+    margin:220px;
+}
+
+.menu a:hover{
+    color:purple;
+    background-color:sandybrown;
+    transition:1s;
+    font-size:35px;
+}
